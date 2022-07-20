@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieReviews</string>
+
+
+    <string name="title_home">영화</string>
+    <string name="title_my_page">내 리뷰</string>
+    <string name="title_movie_reviews">영화 상세</string>
+
+    <string name="home_presenter_error">에러가 발생했어요</string>
+
+</resources>

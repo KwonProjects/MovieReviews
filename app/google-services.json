@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "930445925863",
+    "project_id": "movierating-10d36",
+    "storage_bucket": "movierating-10d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930445925863:android:77e2a0f1b952197bee3142",
+        "android_client_info": {
+          "package_name": "co.kr.kwon.movierating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930445925863-ks2pbtrrab5j3ce5962ua0ra698u3vpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-fiMBe7CZ_xFG98e3ocBZT7SUoWOpOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930445925863-ks2pbtrrab5j3ce5962ua0ra698u3vpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930445925863:android:e26048a1d55aecddee3142",
+        "android_client_info": {
+          "package_name": "co.kr.kwon.movieratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930445925863-ks2pbtrrab5j3ce5962ua0ra698u3vpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-fiMBe7CZ_xFG98e3ocBZT7SUoWOpOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930445925863-ks2pbtrrab5j3ce5962ua0ra698u3vpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930445925863:android:80ca4720095f1f7bee3142",
+        "android_client_info": {
+          "package_name": "co.kr.kwon.moviereviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930445925863-ks2pbtrrab5j3ce5962ua0ra698u3vpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-fiMBe7CZ_xFG98e3ocBZT7SUoWOpOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930445925863-ks2pbtrrab5j3ce5962ua0ra698u3vpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
